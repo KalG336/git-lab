@@ -1,5 +1,5 @@
 Answer 1: git version 2.17.1
-Answer 2: user.name=Kal
+Answer 2: user.name=Kalan Greiner
           user.email=kg972316@ohio.edu
 Answer 3: Displays the help menu, which offers some commonly used commands
 Answer 4: 
@@ -52,7 +52,7 @@ Answer 7:
 Answer 8:
 
 commit 95f6aaccd0544b614cf0c95d34e327b1241c9590 (HEAD -> master)
-Author: Kal <kg972316@ohio.edu>
+Author: Kalan Greiner <kg972316@ohio.edu>
 Date:   Thu Sep 5 15:42:16 2019 -0400
 
     Initial commit
@@ -62,4 +62,11 @@ Answer 9:
     Your branch is up to date with 'origin/master'
 
     nothing to commit, working tree clean
+
+Answer 10: No
+Answer 11: It fails to push becuase the remote repository is pushing to the local repository.
+Answer 12: Yes
+Answer 13:
+
+    .  ..  .git  .gitignore  README.md
 
